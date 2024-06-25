@@ -1,0 +1,10 @@
+vendor/
+.idea/
+*.ppt
+*.pptx
+*.pdf
+*.doc
+*.docx
+*.xsl
+*.xslx
+.env
